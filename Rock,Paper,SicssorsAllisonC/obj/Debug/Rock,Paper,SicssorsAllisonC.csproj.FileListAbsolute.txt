@@ -1,0 +1,10 @@
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock,Paper,SicssorsAllisonC.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock_Paper_SicssorsAllisonC.Properties.Resources.resources
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock_Paper_SicssorsAllisonC.frmRockPaperScissors.resources
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock,Paper,SicssorsAllisonC.csproj.GenerateResource.Cache
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock,Paper,SicssorsAllisonC.csproj.CoreCompileInputs.cache
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\bin\Debug\Rock,Paper,SicssorsAllisonC.exe.config
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\bin\Debug\Rock,Paper,SicssorsAllisonC.exe
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\bin\Debug\Rock,Paper,SicssorsAllisonC.pdb
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock,Paper,SicssorsAllisonC.exe
+C:\Users\Allison\Downloads\Allison's programing\Rock,Paper,SicssorsAllisonC\Rock,Paper,SicssorsAllisonC\obj\Debug\Rock,Paper,SicssorsAllisonC.pdb
